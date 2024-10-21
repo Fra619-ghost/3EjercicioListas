@@ -1,0 +1,14 @@
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\bin\Debug\net8.0\ejercicio2video.exe
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\bin\Debug\net8.0\ejercicio2video.deps.json
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\bin\Debug\net8.0\ejercicio2video.runtimeconfig.json
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\bin\Debug\net8.0\ejercicio2video.dll
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\bin\Debug\net8.0\ejercicio2video.pdb
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.AssemblyInfoInputs.cache
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.AssemblyInfo.cs
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.dll
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\refint\ejercicio2video.dll
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.pdb
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ejercicio2video.genruntimeconfig.cache
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ejercicio2Video1910\ejercicio2video\obj\Debug\net8.0\ref\ejercicio2video.dll
