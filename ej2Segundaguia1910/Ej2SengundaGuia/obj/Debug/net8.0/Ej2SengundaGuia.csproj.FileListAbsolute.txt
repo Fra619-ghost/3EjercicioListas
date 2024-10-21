@@ -1,0 +1,14 @@
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\bin\Debug\net8.0\Ej2SengundaGuia.exe
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\bin\Debug\net8.0\Ej2SengundaGuia.deps.json
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\bin\Debug\net8.0\Ej2SengundaGuia.runtimeconfig.json
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\bin\Debug\net8.0\Ej2SengundaGuia.dll
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\bin\Debug\net8.0\Ej2SengundaGuia.pdb
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.AssemblyInfoInputs.cache
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.AssemblyInfo.cs
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.dll
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\refint\Ej2SengundaGuia.dll
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.pdb
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\Ej2SengundaGuia.genruntimeconfig.cache
+C:\Users\User\Documents\UAM 2do semestre\Metodología y pragramación estructurada\ej2Segundaguia1910\Ej2SengundaGuia\obj\Debug\net8.0\ref\Ej2SengundaGuia.dll

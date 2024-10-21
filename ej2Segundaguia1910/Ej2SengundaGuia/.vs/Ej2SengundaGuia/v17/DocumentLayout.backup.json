@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\UAM 2do semestre\\Metodolog\u00EDa y pragramaci\u00F3n estructurada\\ej2Segundaguia1910\\Ej2SengundaGuia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DDF0E4-54BA-49CD-B6AD-3766108B2F99}|Ej2SengundaGuia.csproj|c:\\users\\user\\documents\\uam 2do semestre\\metodolog\u00EDa y pragramaci\u00F3n estructurada\\ej2segundaguia1910\\ej2sengundaguia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DDF0E4-54BA-49CD-B6AD-3766108B2F99}|Ej2SengundaGuia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\UAM 2do semestre\\Metodolog\u00EDa y pragramaci\u00F3n estructurada\\ej2Segundaguia1910\\Ej2SengundaGuia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\UAM 2do semestre\\Metodolog\u00EDa y pragramaci\u00F3n estructurada\\ej2Segundaguia1910\\Ej2SengundaGuia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAswPkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:01:55.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
